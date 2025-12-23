@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Scénario de BD",
+  "description": "Donnez vie à vos histoires en quelques clics. Cet outil utilise l'IA pour générer des scripts de bandes dessinées complets basés sur vos idées, personnages et préférences de style.",
+  "requestFramePermissions": []
+}
